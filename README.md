@@ -1,6 +1,6 @@
 # Code and data associated with "Reductions in commuting mobility predict geographic differences in SARSCoV-2 prevalence in New York City" - edited
 
-## Stephen M. Kissler, Nishant Kishore, Malavika Prabhu, Dena Goffman, Yaakov Beilin, Ruth Landau, Cynthia Gyamfi-Bannerman, Brian T. Bateman, Daniel Katz, Jonathan Gal, Angela Bianco, Joanne Stone, Daniel Larremore, Caroline O. Buckee, Yonatan H. Grad
+## Stephen M. Kissler, Nishant Kishore, Malavika Prabhu, Dena Goffman, Yaakov Beilin, Ruth Landau, Cynthia Gyamfi-Bannerman, Brian T. Bateman, Jon Snyder, Armin S. Razavi, Daniel Katz, Jonathan Gal, Angela Bianco, Joanne Stone, Daniel Larremore, Caroline O. Buckee, Yonatan H. Grad
 
 https://dash.harvard.edu/bitstream/handle/1/42665370/Kissler_etal_NYC_mobility.pdf?sequence=1&isAllowed=y
 
