@@ -1,4 +1,4 @@
-# Code and data associated with "Reductions in commuting mobility predict geographic differences in SARSCoV-2 prevalence in New York City"
+# Code and data associated with "Reductions in commuting mobility predict geographic differences in SARS-CoV-2 prevalence in New York City"
 
 ## Stephen M. Kissler, Nishant Kishore, Malavika Prabhu, Dena Goffman, Yaakov Beilin, Ruth Landau, Cynthia Gyamfi-Bannerman, Brian T. Bateman, Jon Snyder, Armin S. Razavi, Daniel Katz, Jonathan Gal, Angela Bianco, Joanne Stone, Daniel Larremore, Caroline O. Buckee, Yonatan H. Grad
 
